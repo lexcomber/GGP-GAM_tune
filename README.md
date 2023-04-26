@@ -3,7 +3,6 @@ Alexis Comber<sup>1*</sup>, Paul Harris<sup>2</sup> , Daisuke Murakami<sup>3</su
 
 <sup>1</sup> School of Geography, University of Leeds, Leeds, UK.\
 <sup>2</sup> Department of Information and Computer Sciences, Saitama University, Japan\
-
 <sup>2</sup> Sustainable Agriculture Sciences, Rothamsted Research, North Wyke, UK\
 <sup>3</sup> Institute of Statistical Mathematics, Japan\
 <sup>4</sup> Graduate School of Environmental Studies, Tohoku University, Japan\
